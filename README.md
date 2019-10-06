@@ -47,9 +47,9 @@
 
 可以看几张截图：
 
-![image](https://gitee.com/yicm/Images/raw/master/xiaobaiai/index.png)
+![image](https://gitee.com/yicm/Images/raw/master/xiaobaiai/index-small.png)
 
-![image](https://gitee.com/yicm/Images/raw/master/xiaobaiai/home.png)
+![image](https://gitee.com/yicm/Images/raw/master/xiaobaiai/home-small.png)
 
 # 4 想使用小白AI经典主题？
 

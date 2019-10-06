@@ -1,0 +1,8 @@
+{
+	"home_page_interval": 5,
+	"tag_page_interval": 10,
+	"category_page_interval": 10,
+	"tag_category_page_interval": 10,
+	"year_page_interval": 10,
+    "open_source_project_interval": 10
+}
